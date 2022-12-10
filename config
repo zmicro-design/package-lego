@@ -2,4 +2,4 @@
 
 export PACKAGE_CORE_NAME="lego"
 export PACKAGE_CORE_VERSION=v4.9.1
-export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/go-acme/lego/releases"
+export PACKAGE_CORE_RELEASE_DOWNLOAD="https://github.com/go-acme/lego/releases/download"
